@@ -28,3 +28,7 @@
    - `docker-compose run phoenix mix ecto.create` to create and initialize the database
    - `docker-compose up`
    - voila
+
+## Change project name
+
+You can use [this script](https://gist.github.com/wbednarski/fcd9a68f600971f6fab6114be44bd403) to rename project name in all the files.
